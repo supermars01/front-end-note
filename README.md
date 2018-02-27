@@ -86,7 +86,7 @@
 * [Web前端程序员简历模板](https://github.com/geekcompany/ResumeSample/blob/master/web.md)
 * [简历语术](others/resume.md)
 
-
+https://www.jianshu.com/p/6cb49271cd2a
 ## 其他
 * [在线工具](bookmark/tool.md)
 * [前端工具](https://github.com/codylindley/frontend-tools)
